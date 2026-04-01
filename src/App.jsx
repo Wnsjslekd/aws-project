@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>vite + React</h1>
+          <h2>Login Feature</h2>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
